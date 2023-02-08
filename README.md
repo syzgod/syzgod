@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **React applications**
 
-- 🤝 I’m looking for help with **more complex apps to do and React best practices**
+- 🤝 I’m looking for help with **more complex apps and React best practices**
 
 - 💬 Ask me about **HTML, CSS, JavaScript and my coding journey.**
 
