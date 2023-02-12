@@ -15,7 +15,7 @@
 
 - 📫 You can reach me at **viktorberczeli@dev-vik.tech**
 
-- ⚡ Fun fact **I've using PCs nearly 30 years yet I've just recently got into coding**
+- ⚡ Fun fact **I've been using PCs nearly 30 years yet I've just recently got into coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
