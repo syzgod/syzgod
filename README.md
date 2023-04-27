@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Viktor</h1>
-<h3 align="center">A passionate frontend developer from Hungary</h3>
+<h3 align="center">A passionate frontend developer from Hungary but living in Germany and have lived in the UK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syzgod&label=Profile%20views&color=0e75b6&style=flat" alt="syzgod" /> </p>
 
