@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syzgod&label=Profile%20views&color=0e75b6&style=flat" alt="syzgod" /> </p>
 
-- 🔭 My main focus is on ** React / Redux / TypeScript and Tailwind along with Sass(SCSS) and other frameworks and libraries **
+- 🔭 My main focus is on **React / Redux / TypeScript and Tailwind along with Sass(SCSS) and other frameworks and libraries**
 
 - 🌱 I’m currently learning **any technology which makes me more effective and profitable to get the job done**
 
