@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **any technology which makes me more effective and profitable to get the job done**
 
-- 👯 I’m looking to collaborate on **React applications**
+- 👯 I’m looking to collaborate on **React applications, growing my network along with my knowledge**
 
-- 🤝 I’m looking for help with **more complex apps and React best practices**
+- 🤝 I’m looking for help with **more complex apps and Frontend best practices**
 
-- 💬 Ask me about **HTML, CSS, JavaScript and my coding journey.**
+- 💬 Ask me about **HTML, CSS, JavaScript and my coding journey but you can ask me anything.**
 
 - 📫 You can reach me at **viktorberczeli@dev-vik.tech**
 
