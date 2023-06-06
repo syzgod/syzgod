@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Viktor</h1>
-<h3 align="center">A passionate frontend developer from Hungary but living in Germany and have lived in the UK</h3>
+<h3 align="center">A passionate frontend developer from Hungary, living in Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syzgod&label=Profile%20views&color=0e75b6&style=flat" alt="syzgod" /> </p>
 
-- 🔭 I’m currently working on **my Portfolio Projects with React/Redux/TypeScript and Tailwind**
+- 🔭 My main focus is on **React / Redux / TypeScript and Tailwind along with Sass(SCSS) and other frameworks and libraries **
 
-- 🌱 I’m currently learning **React, TypeScript and Tailwind along with Ant Design**
+- 🌱 I’m currently learning **any technology which makes me more effective and profitable to get the job done**
 
 - 👯 I’m looking to collaborate on **React applications**
 
