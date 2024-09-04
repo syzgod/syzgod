@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syzgod&label=Profile%20views&color=0e75b6&style=flat" alt="syzgod" /> </p>
 
-- 🔭 My main focus is on **React / Redux / TypeScript and Tailwind along with Sass(SCSS) and other frameworks and libraries**
+- 🔭 My main focus is on **Angular / React / Redux / TypeScript / node.js and Tailwind along with Sass(SCSS) and other frameworks and libraries**
 
 - 🌱 I’m currently learning **any technology which makes me more effective and profitable to get the job done**
 
-- 👯 I’m looking to collaborate on **React applications, growing my network along with my knowledge**
+- 👯 I’m looking to collaborate on **Angular/React applications, growing my network along with my knowledge**
 
 - 🤝 I’m looking for help with **more complex apps and Frontend best practices**
 
 - 💬 Ask me about **HTML, CSS, JavaScript and my coding journey but you can ask me anything.**
 
-- 📫 You can reach me at **viktorberczeli@dev-vik.tech**
+- 📫 You can reach me at **vikberczeli@gmail.com**
 
-- ⚡ Fun fact **I've been using PCs nearly 30 years**
+- ⚡ Fun fact **I've been using PCs more than 30 years**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
