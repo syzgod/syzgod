@@ -12,7 +12,7 @@
 - 🤝 I’m looking for Frontend Developer role with **interesting projects and various technologies**
 
 - 💬 You can ask me about anything
-- 
+
 - ⚡ Fun fact **I've learn React and Redux** before moving on to **Angular**
 
 <h3 align="left">Connect with me:</h3>
